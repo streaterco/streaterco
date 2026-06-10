@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 - 🔭 I am currently working on fintech projects.
 - 🌱 I am currently learning technology stacks.
