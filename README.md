@@ -7,3 +7,4 @@
 - 💬 Ask me about energy markets, financial markets, environmental markets, and China.
 - 📫 How to reach me: email, RPC Labs Discord, Station F Slack.
 - ⚡ Fun fact: I have lived in six countries.
+- ⭐ HKUST graduate, CFA Charterholder.
