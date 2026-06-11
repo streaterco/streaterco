@@ -6,4 +6,4 @@
 - I am looking for help with AI for investment research - ideas and implementation.
 - Ask me about energy markets, financial markets, environmental markets, and China.
 - Fun fact: I have lived in six countries.
-- HKUST graduate and CFA Charterholder.
+- HKUST alumnus and CFA Charterholder.
